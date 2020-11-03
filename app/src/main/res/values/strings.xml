@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrSimulation</string>
+    <string name="type_to_search_for_a_topic">Type to search for any photos</string>
+    <string name="failure">Some Failure occur</string>
+    <string name="eq_try_with_diff_keyword">Keep trying with a different keyword.</string>
+    <string name="offline">Check your internet connection, You’re offline!</string>
+    <string name="no_result">Not found result for any photos</string>
+</resources>
